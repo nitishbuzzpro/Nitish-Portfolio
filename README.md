@@ -1,7 +1,7 @@
 # Nitish-Portfolio
 Portfolio of Projects
 
-# Project 1 : A project on Natural Language Processing - Password Strength Classifier.
+# [Project 1 : A project on Natural Language Processing - Password Strength Classifier](https://github.com/nitishbuzzpro/-Password_Strength_Classifier.git)
 
 Model is trained on a multiclassification data set as per the following
 
